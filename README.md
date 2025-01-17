@@ -11,8 +11,6 @@ Welcome to my GitHub profile! I'm a full-stack web developer passionate about cr
  CSS
 
 
-## 🌟 Featured Projects
-- [Portfolio](https://daniel-kinuthia.vercel.app/): 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+## 🌟 My Portfolio
+-Check out my portfolio to see my projects and learn more about my work: [My Portfolio](https://daniel-kinuthia.vercel.app/)
 
