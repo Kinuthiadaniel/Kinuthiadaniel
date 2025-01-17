@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a full-stack web developer passionate about cr
 - Programming: JavaScript, Python, React
 - Backend: Flask, SQLAlchemy
 - Frontend: TailwindCSS,
- [HTML Badge](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+ ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 , 
  CSS
 
